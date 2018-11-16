@@ -1,2 +1,3 @@
-# line_search_methods
-Line Search Methods
+# Line Search Methods 
+- Gradient descent
+- Newton's method
