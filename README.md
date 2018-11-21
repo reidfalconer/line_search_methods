@@ -1,6 +1,7 @@
 # The Algorithmic Showdown:
 ## Gradient Descent vs Newton's Method
 
+#### 14D002: Deterministic Models and Optimization.
 
 ### By: Reid Falconer 
 
@@ -9,4 +10,5 @@ or the number of iterations needed) and to further assess the differences in the
 
 - Gradient descent 
 - Newton's method
+
 
